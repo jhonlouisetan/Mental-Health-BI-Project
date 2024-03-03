@@ -1,2 +1,11 @@
-# Mental-Health-BI-Project
-A Microsoft Power BI project for  IS114
+## About
+Visualizing Mental Health: A Power BI Approach to Suicide Data Analysis
+
+A Microsoft Power BI research paper on suicide data analysis.
+
+## Purpose
+A research paper for IS114 Business Intelligence
+
+## Members
+- Jhon Louise Tan
+- Abdul Aziz Uy
