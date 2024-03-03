@@ -1,6 +1,6 @@
-## About
-Visualizing Mental Health: A Power BI Approach to Suicide Data Analysis
+# Visualizing Mental Health: A Power BI Approach to Suicide Data Analysis
 
+## About
 A Microsoft Power BI research paper on suicide data analysis.
 
 ## Purpose
